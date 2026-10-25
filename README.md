@@ -1,1 +1,1 @@
-# Git Proot Workspace & Termux
+RSS reader shaped like a gourd. 
